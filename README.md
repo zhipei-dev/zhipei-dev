@@ -12,9 +12,19 @@ My focus is not only writing code, but turning operational requirements into sys
 
 [![CI](https://github.com/zhipei-dev/delivery-readiness-guard/actions/workflows/ci.yml/badge.svg)](https://github.com/zhipei-dev/delivery-readiness-guard/actions/workflows/ci.yml)
 
-A GitHub-native Action that deterministically checks whether a repository contains the evidence needed for client, developer, or operations handoff. It runs without an LLM or hosted backend, produces explainable readiness results, and is released as `v1.0.1` with a maintained `v1` major tag. It is continuously dogfooded across three public portfolio repositories.
+A GitHub-native Action that deterministically checks whether a repository contains the evidence needed for client, developer, or operations handoff. It runs without an LLM or hosted backend, produces explainable readiness results, and is released as `v1.0.1` with a maintained `v1` major tag. It is continuously dogfooded across four public portfolio repositories.
 
 **Stack:** TypeScript, Node.js 24, GitHub Actions, YAML, @actions/core, ncc
+
+---
+
+### [API Rescue Case Study](https://github.com/zhipei-dev/api-rescue-case-study)
+
+[![CI](https://github.com/zhipei-dev/api-rescue-case-study/actions/workflows/ci.yml/badge.svg)](https://github.com/zhipei-dev/api-rescue-case-study/actions/workflows/ci.yml)
+
+A synthetic API rescue case study that reproduces duplicate-delivery, concurrency, retry, timeout, transaction, and error-leakage failures, then repairs them with boundary validation, durable SQLite claims, business-level idempotency, bounded transient retries, transactional completion, and explicit production limitations.
+
+**Stack:** TypeScript, Node.js 24, Express, SQLite, Zod, Vitest, GitHub Actions
 
 ---
 
