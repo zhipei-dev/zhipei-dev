@@ -8,6 +8,16 @@ My focus is not only writing code, but turning operational requirements into sys
 
 ## Featured Projects
 
+### [Delivery Readiness Guard](https://github.com/zhipei-dev/delivery-readiness-guard)
+
+[![CI](https://github.com/zhipei-dev/delivery-readiness-guard/actions/workflows/ci.yml/badge.svg)](https://github.com/zhipei-dev/delivery-readiness-guard/actions/workflows/ci.yml)
+
+A GitHub-native Action that deterministically checks whether a repository contains the evidence needed for client, developer, or operations handoff. It runs without an LLM or hosted backend, produces explainable readiness results, and was released as `v1.0.0` with a maintained `v1` major tag.
+
+**Stack:** TypeScript, Node.js 24, GitHub Actions, YAML, @actions/core, ncc
+
+---
+
 ### [AI SaaS Integration Lab](https://github.com/zhipei-dev/ai-saas-integration-lab)
 
 [![CI](https://github.com/zhipei-dev/ai-saas-integration-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/zhipei-dev/ai-saas-integration-lab/actions/workflows/ci.yml)
