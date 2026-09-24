@@ -70,12 +70,12 @@ A business operations platform covering purchasing, receiving, inventory ledger,
 
 I am especially suited to small and medium-sized delivery scopes where the client needs a clear result rather than a large consulting process:
 
-- **AI automation & integration** — connect AI models, APIs, SaaS tools, internal workflows, approval steps, and audit trails.
-- **AI-generated / vibe-coded app rescue** — diagnose bugs, repair unreliable code, add tests, stabilize APIs, improve error handling, and get CI green.
-- **API & webhook reliability** — idempotency, retries, timeouts, validation, concurrency safety, transaction boundaries, and error hygiene.
-- **Small full-stack business tools** — internal dashboards, admin apps, operational workflows, CRUD/API systems, and lightweight business platforms.
-- **Data reconciliation & reporting** — match data across systems, identify anomalies, create explainable reports, and preserve audit history.
-- **GitHub delivery readiness** — CI, repository structure, handoff documentation, release hygiene, and deterministic delivery checks.
+- **[AI automation & integration](https://github.com/zhipei-dev/ai-saas-integration-lab)** — connect AI models, APIs, SaaS tools, internal workflows, approval steps, and audit trails.
+- **[AI-generated / vibe-coded app rescue](https://github.com/zhipei-dev/api-rescue-case-study)** — diagnose bugs, repair unreliable code, add tests, stabilize APIs, improve error handling, and get CI green.
+- **[API & webhook reliability](https://github.com/zhipei-dev/api-rescue-case-study)** — idempotency, retries, timeouts, validation, concurrency safety, transaction boundaries, and error hygiene.
+- **[Small full-stack business tools](https://github.com/zhipei-dev/business-ops-mini-platform)** — internal dashboards, admin apps, operational workflows, CRUD/API systems, and lightweight business platforms.
+- **[Data reconciliation & reporting](https://github.com/zhipei-dev/ops-reconciliation-toolkit)** — match data across systems, identify anomalies, create explainable reports, and preserve audit history.
+- **[GitHub delivery readiness](https://github.com/zhipei-dev/delivery-readiness-guard)** — CI, repository structure, handoff documentation, release hygiene, and deterministic delivery checks.
 
 My preferred delivery loop is: **diagnose → implement → test → document → hand off**.
 
