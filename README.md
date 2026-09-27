@@ -12,7 +12,7 @@ My focus is not only writing code, but turning operational requirements into sys
 
 [![CI](https://github.com/zhipei-dev/delivery-readiness-guard/actions/workflows/ci.yml/badge.svg)](https://github.com/zhipei-dev/delivery-readiness-guard/actions/workflows/ci.yml)
 
-A GitHub-native Action that deterministically checks whether a repository contains the evidence needed for client, developer, or operations handoff. It runs without an LLM or hosted backend, produces explainable readiness results, and is released as [`v1.1.0`](https://github.com/zhipei-dev/delivery-readiness-guard/releases/tag/v1.1.0) on the [GitHub Marketplace](https://github.com/marketplace/actions/delivery-readiness-guard) with a maintained `v1` major tag. It is continuously dogfooded across four public portfolio repositories.
+A GitHub-native Action that deterministically checks whether a repository contains the evidence needed for client, developer, or operations handoff. It runs without an LLM or hosted backend, produces explainable readiness results, and is released as [`v1.1.0`](https://github.com/zhipei-dev/delivery-readiness-guard/releases/tag/v1.1.0) on the [GitHub Marketplace](https://github.com/marketplace/actions/delivery-readiness-guard) with a maintained `v1` major tag. Its v1.1.0 workflow-security checks are enabled across four public dogfood repositories, including explicit workflow permissions and immutable external Action refs.
 
 **Stack:** TypeScript, Node.js 24, GitHub Actions, YAML, @actions/core, ncc
 
