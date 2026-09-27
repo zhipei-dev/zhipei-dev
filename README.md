@@ -6,6 +6,14 @@ I build practical software around real business workflows — combining software
 
 My focus is not only writing code, but turning operational requirements into systems that are testable, auditable, maintainable, and useful in day-to-day work.
 
+## Visual Proof
+
+Real browser captures from local Playwright flows using synthetic data. Each image opens the corresponding repository.
+
+| AI SaaS Integration Lab | Operations Reconciliation Toolkit | Business Operations Mini Platform |
+| --- | --- | --- |
+| [![AI SaaS support workflow](https://raw.githubusercontent.com/zhipei-dev/ai-saas-integration-lab/main/docs/assets/ai-saas-workflow.png)](https://github.com/zhipei-dev/ai-saas-integration-lab) | [![Operations reconciliation dashboard](https://raw.githubusercontent.com/zhipei-dev/ops-reconciliation-toolkit/main/docs/assets/reconciliation-dashboard.png)](https://github.com/zhipei-dev/ops-reconciliation-toolkit) | [![Business operations workflow](https://raw.githubusercontent.com/zhipei-dev/business-ops-mini-platform/main/docs/assets/business-ops-workflow.png)](https://github.com/zhipei-dev/business-ops-mini-platform) |
+
 ## Featured Projects
 
 ### [Delivery Readiness Guard](https://github.com/zhipei-dev/delivery-readiness-guard)
